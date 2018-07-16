@@ -1,2 +1,2 @@
-# thread-pool-manager
-simple thread pool manager implemented in Java
+# Thread Pool Manager
+> Simple thread pool manager implemented in Java
